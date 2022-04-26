@@ -4,7 +4,7 @@
 CRIEI UM SISTEMA AUTOMATIZADO PARA CALCULAR AS NOTAS FINAIS DE TODOS OS ALUNOS DE UMA ESCOLA.
 Início
 
-Enquanto Existe nota? Faça\n
+Enquanto Existe nota? Faça
 Receber as notas de um aluno em questão
 Calcular as notas
 Gerar uma nota final
