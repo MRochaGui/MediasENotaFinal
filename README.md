@@ -1,8 +1,8 @@
 # MediasENotaFinal
- Código de um programa que disponibiliza a média do aluno e se ele foi aprovado ou não.
  Algoritmo.
  
-CRIEI UM SISTEMA AUTOMATIZADO PARA CALCULAR AS NOTAS FINAIS DE TODOS OS ALUNOS DE UMA ESCOLA.
+Criei um sistema automatizado para calcular as notas das avaliações e exibir a nota final.
+
 Início
 
 Enquanto Existe nota? Faça
